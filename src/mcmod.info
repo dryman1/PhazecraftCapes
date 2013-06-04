@@ -1,0 +1,15 @@
+[
+{
+  "modid" : "PhazecraftCapesForge",
+  "name" : "PhazecraftCapes",
+  "version" : "0.0.4b",
+  "url" : "http://www.phazecraft.com/",
+  "credits" : "Created By: The Phazecraft Team",
+  "authors": [ "Quantum64" ],
+  "description": "Capes Plugin for use on Phazecraft servers",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": []
+}
+]
