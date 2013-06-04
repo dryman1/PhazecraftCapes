@@ -13,7 +13,7 @@ public class PhazecraftCapesForge
 {
   @Mod.Instance("MCCapesForge")
   public static PhazecraftCapesForge instance;
-  @SidedProxy(clientSide="com.jadarstudios.MCCapesForge.proxy.ClientProxy", serverSide="com.jadarstudios.MCCapesForge.proxy.CommonProxy")
+  @SidedProxy(clientSide="com.phazecraft.capes.proxy.ClientProxy", serverSide="net.phazecraft.capes.proxy.CommonProxy")
   public static CommonProxy proxy;
   
   @Mod.PreInit
